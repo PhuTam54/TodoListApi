@@ -1,0 +1,12 @@
+C:\fptaptech\sem3\DMAWS\ToDoListApi\obj\Release\net7.0\PubTmp\Out\ToDoListApi.exe
+C:\fptaptech\sem3\DMAWS\ToDoListApi\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\fptaptech\sem3\DMAWS\ToDoListApi\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\fptaptech\sem3\DMAWS\ToDoListApi\obj\Release\net7.0\PubTmp\Out\ToDoListApi.dll
+C:\fptaptech\sem3\DMAWS\ToDoListApi\obj\Release\net7.0\PubTmp\Out\ToDoListApi.deps.json
+C:\fptaptech\sem3\DMAWS\ToDoListApi\obj\Release\net7.0\PubTmp\Out\ToDoListApi.runtimeconfig.json
+C:\fptaptech\sem3\DMAWS\ToDoListApi\obj\Release\net7.0\PubTmp\Out\ToDoListApi.pdb
+C:\fptaptech\sem3\DMAWS\ToDoListApi\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\fptaptech\sem3\DMAWS\ToDoListApi\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\fptaptech\sem3\DMAWS\ToDoListApi\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\fptaptech\sem3\DMAWS\ToDoListApi\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\fptaptech\sem3\DMAWS\ToDoListApi\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll

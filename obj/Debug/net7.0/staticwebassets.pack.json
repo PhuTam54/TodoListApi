@@ -1,0 +1,1905 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\dist\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\dist\\adminlte.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\OverlayScrollbars.min.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\OverlayScrollbars.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\all.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\all.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\all.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\icheck-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\icheck-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\jqvmap.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\jsgrid\\jsgrid-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\jsgrid\\jsgrid-theme.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\jsgrid\\jsgrid.min.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\jsgrid\\jsgrid.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\responsive.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\responsive.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\select2.min.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\select2.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\summernote-bs4.min.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\summernote-bs4.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\admin-css\\plugins\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\css\\admin-css\\plugins\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\dist\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\js\\admin-js\\dist\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\dist\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\js\\admin-js\\dist\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\dist\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\js\\admin-js\\dist\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\dist\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\dist\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\dist\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\dist\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\Chart.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\datatables-buttons\\js\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\datatables-buttons\\js\\buttons.flash.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\datatables-buttons\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\datatables-buttons\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\datatables-responsive\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\datatables-responsive\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\datatables-responsive\\js\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\datatables-responsive\\js\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jquery-knob\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jquery-knob\\jquery.knob.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jquery.knob.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jquery.overlayScrollbars.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jquery.overlayScrollbars.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jquery.overlayScrollbars.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jquery.overlayScrollbars.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\jquery.vmap.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\jquery.vmap.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\jquery.vmap.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\jquery.vmap.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\jqvmap.css",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\jqvmap.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\jqvmap.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.africa.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.africa.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.asia.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.asia.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.australia.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.australia.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.algeria.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.algeria.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.argentina.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.argentina.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.brazil.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.brazil.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.canada.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.canada.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.croatia.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.croatia.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.france.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.france.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.germany.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.germany.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.greece.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.greece.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.indonesia.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.indonesia.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.iran.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.iran.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.iraq.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.iraq.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.new_regions_france.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.new_regions_france.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.russia.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.russia.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.serbia.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.serbia.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.tunisia.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.tunisia.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.turkey.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.turkey.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.ukraine.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.ukraine.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.usa.counties.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.usa.counties.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.usa.districts.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.usa.districts.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.usa.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.usa.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jqvmap\\maps\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jsgrid\\demos\\db.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jsgrid\\demos\\db.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\jsgrid\\jsgrid.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\jsgrid\\jsgrid.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\af.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\af.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ar-dz.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ar-dz.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ar-kw.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ar-kw.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ar-ly.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ar-ly.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ar-ma.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ar-ma.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ar-sa.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ar-sa.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ar-tn.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ar-tn.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ar.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ar.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\az.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\az.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\be.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\be.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\bg.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\bg.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\bm.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\bm.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\bn-bd.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\bn-bd.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\bn.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\bn.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\bo.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\bo.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\br.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\br.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\bs.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\bs.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ca.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ca.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\cs.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\cs.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\cv.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\cv.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\cy.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\cy.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\da.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\da.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\de-at.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\de-at.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\de-ch.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\de-ch.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\de.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\de.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\dv.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\dv.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\el.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\el.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\en-SG.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\en-SG.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\en-au.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\en-au.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\en-ca.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\en-ca.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\en-gb.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\en-gb.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\en-ie.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\en-ie.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\en-il.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\en-il.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\en-in.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\en-in.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\en-nz.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\en-nz.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\eo.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\eo.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\es-do.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\es-do.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\es-mx.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\es-mx.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\es-us.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\es-us.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\es.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\es.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\et.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\et.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\eu.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\eu.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\fa.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\fa.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\fi.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\fi.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\fil.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\fil.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\fo.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\fo.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\fr-ca.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\fr-ch.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\fr-ch.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\fr.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\fr.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\fy.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\fy.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ga.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ga.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\gd.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\gd.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\gl.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\gl.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\gom-deva.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\gom-deva.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\gom-latn.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\gom-latn.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\gu.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\gu.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\he.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\he.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\hi.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\hi.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\hr.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\hr.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\hu.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\hu.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\hy-am.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\hy-am.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\id.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\id.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\is.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\is.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\it-ch.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\it-ch.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\it.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\it.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ja.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ja.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\jv.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\jv.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ka.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ka.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\kk.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\kk.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\km.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\km.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\kn.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\kn.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ko.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ko.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ku.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ku.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ky.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ky.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\lb.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\lb.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\lo.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\lo.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\lt.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\lt.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\lv.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\lv.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\me.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\me.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\mi.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\mi.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\mk.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\mk.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ml.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ml.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\mn.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\mn.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\mr.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\mr.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ms-my.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ms-my.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ms.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ms.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\mt.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\mt.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\my.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\my.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\nb.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\nb.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ne.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ne.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\nl-be.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\nl-be.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\nl.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\nl.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\nn.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\nn.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\oc-lnc.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\oc-lnc.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\pa-in.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\pa-in.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\pl.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\pl.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\pt-br.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\pt-br.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\pt.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\pt.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ro.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ro.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ru.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ru.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\sd.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\sd.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\se.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\se.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\si.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\si.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\sk.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\sk.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\sl.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\sl.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\sq.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\sq.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\sr-cyrl.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\sr-cyrl.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\sr.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\sr.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ss.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ss.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\sv.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\sv.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\sw.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\sw.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ta.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ta.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\te.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\te.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\tet.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\tet.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\tg.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\tg.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\th.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\th.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\tk.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\tk.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\tl-ph.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\tl-ph.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\tlh.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\tlh.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\tr.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\tr.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\tzl.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\tzl.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\tzm-latn.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\tzm-latn.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\tzm.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\tzm.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ug-cn.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ug-cn.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\uk.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\uk.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\ur.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\ur.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\uz-latn.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\uz-latn.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\uz.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\uz.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\vi.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\vi.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\x-pseudo.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\x-pseudo.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\yo.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\yo.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\zh-cn.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\zh-hk.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\zh-hk.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\zh-mo.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\zh-mo.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locale\\zh-tw.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locale\\zh-tw.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locales.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locales.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locales.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locales.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\locales.min.js.map",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\locales.min.js.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\moment-with-locales.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\moment-with-locales.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\moment-with-locales.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\moment-with-locales.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\moment-with-locales.min.js.map",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\moment-with-locales.min.js.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\moment.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\moment\\moment.min.js.map",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\moment\\moment.min.js.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\select2.full.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\sparkline.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\sparkline.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\summernote-bs4.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\summernote-bs4.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\summernote-bs4.js.map",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\summernote-bs4.js.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\summernote-bs4.min.js.map",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\summernote-bs4.min.js.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\admin-js\\plugins\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\js\\admin-js\\plugins\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\test\\css\\main.css",
+      "PackagePath": "staticwebassets\\test\\css\\main.css"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\test\\icons\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\test\\icons\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\test\\icons\\android-chrome-512x512.png",
+      "PackagePath": "staticwebassets\\test\\icons\\android-chrome-512x512.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\test\\icons\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\test\\icons\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\test\\icons\\browserconfig.xml",
+      "PackagePath": "staticwebassets\\test\\icons\\browserconfig.xml"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\test\\icons\\default-avatar.jpg",
+      "PackagePath": "staticwebassets\\test\\icons\\default-avatar.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\test\\icons\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\test\\icons\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\test\\icons\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\test\\icons\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\test\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\test\\icons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\test\\icons\\mstile-150x150.png",
+      "PackagePath": "staticwebassets\\test\\icons\\mstile-150x150.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\test\\icons\\safari-pinned-tab.svg",
+      "PackagePath": "staticwebassets\\test\\icons\\safari-pinned-tab.svg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\test\\js\\main.js",
+      "PackagePath": "staticwebassets\\test\\js\\main.js"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\uploads\\0k0m1kfp.fv5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0k0m1kfp.fv5.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\uploads\\0yknh4ji.0q4.png",
+      "PackagePath": "staticwebassets\\uploads\\0yknh4ji.0q4.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\uploads\\4nsk2jp1.iit.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4nsk2jp1.iit.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\uploads\\ayvf11gy.5mh.png",
+      "PackagePath": "staticwebassets\\uploads\\ayvf11gy.5mh.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\uploads\\beuqdfxw.mfw.jpg",
+      "PackagePath": "staticwebassets\\uploads\\beuqdfxw.mfw.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\uploads\\hb0widoy.llu.png",
+      "PackagePath": "staticwebassets\\uploads\\hb0widoy.llu.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\uploads\\jzg5mltc.ect.png",
+      "PackagePath": "staticwebassets\\uploads\\jzg5mltc.ect.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\uploads\\l2steinl.oxg.jpg",
+      "PackagePath": "staticwebassets\\uploads\\l2steinl.oxg.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\uploads\\mr0cr4m4.1qh.jpg",
+      "PackagePath": "staticwebassets\\uploads\\mr0cr4m4.1qh.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\uploads\\oaxagrpj.0lq.jpg",
+      "PackagePath": "staticwebassets\\uploads\\oaxagrpj.0lq.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\uploads\\ozoobdih.3cr.png",
+      "PackagePath": "staticwebassets\\uploads\\ozoobdih.3cr.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\uploads\\qdebu4fs.3pq.png",
+      "PackagePath": "staticwebassets\\uploads\\qdebu4fs.3pq.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\uploads\\sdgntwgv.fad.png",
+      "PackagePath": "staticwebassets\\uploads\\sdgntwgv.fad.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\uploads\\sssxzc1i.sgm.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sssxzc1i.sgm.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\uploads\\vx3tibqk.xfy.png",
+      "PackagePath": "staticwebassets\\uploads\\vx3tibqk.xfy.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\uploads\\y4fmv2xa.axo.png",
+      "PackagePath": "staticwebassets\\uploads\\y4fmv2xa.axo.png"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\uploads\\zik52kd4.acz.jpg",
+      "PackagePath": "staticwebassets\\uploads\\zik52kd4.acz.jpg"
+    },
+    {
+      "Id": "C:\\fptaptech\\sem3\\DMAWS\\ToDoListApi\\wwwroot\\uploads\\zt1mapdo.kvk.png",
+      "PackagePath": "staticwebassets\\uploads\\zt1mapdo.kvk.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ToDoListApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ToDoListApi.props",
+      "PackagePath": "build\\ToDoListApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ToDoListApi.props",
+      "PackagePath": "buildMultiTargeting\\ToDoListApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ToDoListApi.props",
+      "PackagePath": "buildTransitive\\ToDoListApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
